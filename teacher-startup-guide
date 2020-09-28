@@ -1,0 +1,114 @@
+Teacher Startup Guide
+
+**About this Tutorial**
+Welcome to Introduction to OpenSCAD for Teachers, a startup guide and set of scalable lessons designed to use OpenSCAD, 
+an open source CAD modeling program, to help teach STEM concepts. 
+These lesson plans are designed in accordance with the Standards for Technological Literacy (STLs,) set forth by the International Technology Educators Association. 
+In this introductory guide, you’ll get a brief overview of open source software and the OpenSCAD program, be introduced to some of the powerful features present in the software 
+(and learn how to troubleshoot them,) and get to try a project on your own!
+
+**An Open Source Software Overview**
+Open source software (OSS,) is software with source code that anyone can inspect, modify, and enhance. Unlike “proprietary” or “closed source” software, 
+where only the original authors are permitted to look at the code that runs a program, anyone is permitted to view, make changes to, or distribute the 
+source code of open source software. This access to the source code allows users to constantly update and add features to programs much quicker than the 
+developers of closed source software can and rapidly address bugs or vulnerabilities, making open source software an attractive alternative to closed-source software. 
+
+Additionally, most open source software is free for users, making it ideal for large-scale deployment in classroom or lab environments. 
+
+**Introduction to OpenSCAD**
+OpenSCAD is an open-source computer-aided design (CAD) program that is available on Ubuntu/Linux, Windows, and Mac OS X. 
+Unlike many other CAD programs, which use parametric modeling, or a modeling process based on changing the dimensions of features and constraints, OpenSCAD uses 
+constructive solid geometry (CSG) modeling, a method that combines simple shapes called primitives. This allows for greater flexibility in the modeling 
+process—users can easily change any step in the modeling process without having to redraw the entire model. 
+More information about OpenSCAD can be found in the OpenSCAD User Manual.
+
+**Downloading OpenSCAD** 
+OpenSCAD, which is available for free download at openscad.org/downloads.html, can be downloaded on Windows, MacOS, and several Linux builds. 
+
+Windows
+To download OpenSCAD on Windows machines, open the OpenSCAD website and navigate to the “Downloads” tab. Download the appropriate .exe file or zipped folder 
+for your operating system’s architecture. 
+
+To tell which architecture your system uses, select the Windows icon at the bottom left of the screen. Select “Settings,” 
+the second icon from the bottom, on the start menu. Select “System Settings,” and select “About” tab, the last tab on the left of the screen. 
+Under the “Device Specifications” section, the “System Type” value should tell you if you have a x32 or x64-based operating system. 
+
+MacOS
+OpenSCAD is available to download on MacOS machines running OS X 10.9 or newer. To download the package from your web browser, navigate to the
+“Downloads” tab on the OpenSCAD website and complete the installation using this app installation tutorial from Apple.
+If you are using a package manager like Homebrew or MacPorts, open the OpenSCAD website and navigate to the “Downloads” 
+tab. Enter the appropriate command into your terminal.
+
+Linux
+For download information specific to your distribution, visit the “Downloads” tab on the OpenSCAD website.
+
+**Getting Started**
+
+Interface 
+There are four panels within the program: the Editor, where you will enter the commands necessary to create the object, the Console, where 
+you’ll receive messages related to the creation of the model, the Viewport, where you will be able to see your model be built, and the Customizer, 
+on the right of the screen, where you can add sets of parameters to a drawing. 
+
+Syntax 
+The language used to create objects in OpenSCAD is based on a functional programming language, with three types of statements: 
+objects, actions, and operators. Another element, the comment, is also discussed.  
+
+Objects
+Objects are the names of 2D and 3D primitives (circles, spheres, cylinders, etc,) and form the basis of the models. When entering an object into the 
+Editor, it should be in the following format:
+	cube ();
+In the parenthesis should be the size of the object, measured in units. All object commands should end in a semicolon. For a list of all 
+supported 2D and 3D primitives, visit the OpenSCAD User Manual’s Language Reference Section.
+
+Actions
+Action statements assign values to variables. Action commands, like object commands, should end in a semicolon. An example action 
+statement is reproduced below:
+	y = 2x +1;
+
+Operators
+Operator statements modify an object: examples include commands like color(), rotate(), translate(), etc. The value of the modification is 
+denoted within the parenthesis (i.e. “blue”, 10.) If an operator statement applies to more than one object, braces are used to denote which 
+objects an operator applies to. Semicolons are applied to the end of the operator statements as well. An example is below:
+translate([0,0,40]) color("blue") { circle(1); square(2); }
+
+Comments
+Another non-code element is the comment. Comments, which are not read by the compiler, allow you to describe your code: how it works, what it 
+does, etc. To create a single-line comment, add two forward slashes before a string of text. An example is reproduced below:
+//This is a single-line comment.
+
+If you want to create a longer comment, you can create a multi-line comment using the following syntax:
+/* This is a 
+multi-line
+comment */
+
+Other Elements
+For information about more complex elements, like data types, values, and scopes, please visit the OpenSCAD Language Reference in the OpenSCAD User Manual. 
+
+**Basic Troubleshooting**
+Error messages are printed to the console, and in many cases, will be descriptive enough to offer an explanation. For specific questions, 
+consider reaching out to the OpenSCAD forum.
+
+**Try It: Make an Ice Cream Cone!** 
+In this sample project, you will create a simple ice cream cone shape to learn the basics of OpenSCAD. 
+When you open OpenSCAD for the first time, a pop-up menu will open. On this menu, you can choose which file to open, or open an “Example” file. 
+Once you choose a file to open, the compiler, or the main program, will start. For this exercise, select “New.”
+Copy the following code sample into the Editor panel on the left:
+
+color("SaddleBrown") 
+translate([0,0,50]) {sphere(20);}
+color("BlanchedAlmond")
+cylinder(h=50, r1=1, r2=22, center = false);
+
+Name and save the file. Look what happens! A “scoop of chocolate ice cream” is modeled in the center panel. 
+Try the following steps to change the model:
+1.	Change the color of the “ice cream scoop” to look like your favorite ice cream flavor. For guidelines on color, see the “color” 
+section of the OpenSCAD User Manual.
+2.	Add a second scoop of ice cream. 
+  a.	Hint: try copying the first block of code and changing the translate and color parameters!
+3.	Move the ice cream cone and the two scoops of ice cream down 50 units.
+  a.	Hint: Which element doesn’t already have a “translate” command attached to it?
+4.	Add comments explaining which blocks of code are attached to each scoop of ice cream and the cone. 
+  a.	For extra difficulty, try a multiline comment!
+
+Resources
+For more information about how to use OpenSCAD, please view the OpenSCAD User Manual.
