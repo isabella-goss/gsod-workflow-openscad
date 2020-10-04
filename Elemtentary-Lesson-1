@@ -1,0 +1,71 @@
+
+Lesson Plan 1 (Elementary Grades)
+Topic: STL 2L: Requirements are the limits to designing or making a product or system.
+Grade: 3-5
+Lesson Title:Table Requirements
+Duration: 45-70 minutes
+
+Overview (include background information):
+This lesson is designed to teach elementary grade students about the importance of identifying criteria and 
+constraints in the engineering design process. After being given a set of criteria and constraints to design around, students will design a table: 
+first by drawing it on a piece of paper, and then by modeling it using OpenSCAD.
+
+Lesson Objectives:
+Students will be able to identify the differences between criteria and constraints.
+Students will be able to explain why criteria and constraints are included as a part of the engineering design process. 
+
+Summary of Tasks:
+Present on the engineering design process, with an emphasis on the identification of criteria and constraints.
+Introduce the project to the class, outlining the criteria (things the product must include) and constraints (things the product cannot include) for their table designs.
+Have the students, either alone or in groups, draw a table that corresponds to the requirements you outlined in the step above.
+Have the students model their tables in OpenSCAD.
+Present the files that the students created, and discuss similarities/differences as a class.
+Talk about why the class made the decisions that they did when designing their tables.
+
+Consumables needed:
+Pieces of graph/printer paper for students to draw their tables on, one (or ½) per student or group of students.
+A worksheet (attached at the end of this document) for each student to complete for homework.
+
+Teacher Preparations:
+Create/find a presentation on tradeoffs in the engineering design process.
+Get familiar with OpenSCAD/create a quick start guide for students to use in preparation for their modeling exercise
+Gather the graph/printer paper necessary for students to draw their tables.
+Print a worksheet for each student to complete for homework (the worksheets are accessible at the end of the lesson plan.)
+
+Procedures:
+Present on criteria and constraints. Why are engineers interested in criteria and constraints? What impact do criteria and constraints have on solving problems? 
+What are the differences between criteria and constraints? (20-25 minutes.)
+
+Introduce the table design process. Add two criteria (ie the top of the table must be a circle, the table has to have one or more legs) and two constraints 
+(ie the table cannot have four legs, the table cannot be brown) to the design. (5-10 minutes.)
+
+Have students draw a table that corresponds to these criteria and constraints on a piece of paper, either individually or in pairs/small groups. (5-10 minutes.) 
+Students will model their table design in OpenSCAD. (10-15 min)
+
+Start a class discussion about the similarities between tables. How many tables look alike? What are the differences? Are the tables “successful?” 
+(ie, do they meet all of the criteria, and include none of the constraints?) (5-10 minutes.)
+
+Assessment:
+Students will successfully complete the attached worksheet for homework.
+
+Additional Resources:
+Identify Criteria and Constraints, PBS’ Engineering For Good
+The Power of Creative Constraints - TED-Ed
+Link Engineering - Educator Exchange
+
+Name: _______________________________  Class: _________________________
+
+Criteria and Constraints Assignment
+
+For each of the following sentences, circle whether the sentence is a criteria (or something that must be included in a design,) or a constraint (something that cannot be included in a design.)
+
+Cars need to have four wheels.              Criteria        Constraint
+A chair can’t have more than six legs.      Criteria        Constraint
+A pencil needs to have an eraser.           Criteria        Constraint
+A computer cannot cost more than $1000.     Criteria        Constraint
+A plate needs to hold food.                 Criteria        Constraint
+A soda can cannot be closed once it’s open. Criteria        Constraint
+Boats need to float.                        Criteria        Constraint
+A train needs to have seats.                Criteria        Constraint
+A cup cannot have a hole in the bottom.     Criteria        Constraint
+School lunch has to be nutritious.          Criteria        Constraint
