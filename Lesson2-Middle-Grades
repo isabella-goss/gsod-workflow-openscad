@@ -1,0 +1,90 @@
+Lesson Plan 1 (Elementary Grades)
+Topic: STL 3E: A product, system, or environment developed for one setting may be applied to another setting.
+Grades: 6-8
+Lesson Title: Creating Coordinates
+Duration: 42-60 minutes
+
+Overview (include background information):
+Students receive a brief presentation on the history and applications of geometry and then are asked to 
+solve a set of geometric history-related riddles, inputting the answers into OpenSCAD to build a specific 
+“trophy” figure. This assignment leads to a discussion about the relationships between geometry, technology, 
+and construction.
+
+Lesson Objectives:
+Students will be able to identify the impacts that geometry has on the construction of objects and on 3D 
+modeling software.
+Students will be able to describe a 3D object verbally/in written form using appropriate vocabulary.
+
+Summary of Tasks:
+Present on the history of geometry as a field, with an emphasis on geometry’s initial use in surveying, taxing, and other 
+fields, as well as current developments in geometry.
+Hand out the worksheets to each student or group of students. 
+Have the students complete the worksheet and model their answers in OpenSCAD. 
+Lead a class discussion on what each student learned in the process of creating their OpenSCAD drawings. 
+
+Consumables needed:
+A worksheet (attached at the end of this document) for each student or group of students to complete for this assignment.
+
+Teacher Preparations:
+Create/find a presentation on the history of geometry/basic geometric vocabulary/what we use geometry for now 
+(a supplementary textbook chapter/website with more resources is linked in the “Additional Resources” section.)
+Print a worksheet (attached at the end of this document) for each of the students or groups of students to complete.
+
+Procedures:
+Present on geometry/vocabulary for talking about geometry. What can you do with geometry? How do you describe different shapes? 
+How do we use geometry in our everyday lives? (20-25 minutes.)
+Introduce and hand out the worksheet. (2-5 minutes.)
+Let the students or groups of students complete the worksheet, modeling their answers in OpenSCAD as they go. (15-20 minutes.) 
+Discuss: What did you learn about geometry in this worksheet and when creating this figure? What was new information to you? 
+Where do you think geometry is now most frequently used in the “real world?” Is that different than where it was used most frequently 
+when it was initially discovered? Do you know how to describe 3D objects now? (5-10 minutes.)
+
+Assessment:
+Students will complete the worksheet/model the figure and will be an active participant in the post-activity discussion.
+
+Additional Resources:
+Encyclopedia Britannica - Geometry
+Professor Dave Explains - Introduction to Geometry
+Geometry With an Introduction to Cosmic Topology - Michael P. Hitchman
+
+Name: _______________________________  Class: _________________________
+
+Geometry and Solid Modeling Vocabulary Game
+
+Build yourself a trophy in OpenSCAD by correctly answering the following questions! 
+Answer the following questions and follow the instructions that are in parentheses to successfully build the trophy. 
+
+Euclid is considered to be the father of geometry.                 True/False 
+(If you answered true, type 18 into the convexity= function in block one. 
+If false, leave it at  0.)
+
+What is the smallest number of faces a pyramid can have?          __________
+(Type your answer into the circle( r=) function in block one.)
+
+In Euclidian geometry, we find the height, width, and 
+volume of objects.                                                  True/False   
+(If you answered true, type h = 0 into the cylinder function in block two. 
+If you answered false, type h = 8.)
+
+Geometry comes from the Greek words for “earth” and “to study.”      True/False 
+(Type your answer into the center= function in block two.)
+
+How many edges does a cube have?                                     __________ 
+(Input your answer into the r1 value of block three.)
+
+People set prices of houses based on their perimeter.                True/False
+(Type your answer into the center= function in block three.)
+
+A can that you store food in, is an example of a cylinder.           True/False
+(Type your answer into the center= function in block four.)
+
+A sphere has how many edges?                                          __________
+(Type your answer into the first spot of the translate() function in block four.)
+
+Geometry helps us find how much space is in 3D objects.             True/False
+(if you answered true, type 30 in the last value of translate() function in block five. 
+If you answered false, type 25 into the last value of translate() in block five.)
+
+ An edge is where two faces meet.                                    True/False
+(If you answered true, type 25 into the sphere() command in block five. 
+If you answered false, type 30 into the sphere() command in block five.)
