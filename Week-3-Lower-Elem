@@ -1,0 +1,48 @@
+
+Lesson Plan 2 (Lower Elementary Grades)
+Topic: STL 8A: Everyone can design solutions to a problem.
+Grade: K-2
+Lesson Title: Designing in Line
+Duration: 50-80 minutes
+
+Overview (include background information):
+Students are given a primitive to create (sphere, cone, etc.) and each member of the group gets a variable to choose 
+(size, location, color, etc.) The class will then compare primitives and discuss why each looks different.
+
+Lesson Objectives:
+Students will be able to articulate that everyone can participate in the design process.
+Students will be able to articulate what components control the appearance of a primitive in OpenSCAD.
+
+Summary of Tasks:
+Present on the engineering design process (or, alternatively, design as a subject.)
+Split the class into groups. 
+Assign each student or group of students a primitive. For groups of students, assign each student a variable to change (size, location, color, etc.)
+Have the students create their primitive based on the parameters provided.
+Have each group present their newly built primitives. 
+Discuss why each primitive looks different, and what design choices each group made.
+Finalize the discussion by talking about the design choices engineers make in the context of solving problems.
+
+Consumables needed:
+One OpenSCAD file with one primitive pre-coded per group of students.
+
+Teacher Preparations:
+Prepare the OpenSCAD files for each group.
+Create/find a presentation on the engineering design process (or design as a subject!)
+
+Procedures:
+Present on the engineering design process (this is the model for engineering design that ITEEA uses for K-2 students, for more context.) (15-20 minutes)
+Assign students to groups. Assign each student a variable to control. (5-10 minutes.)
+Have each group edit their primitive files. (15-20 minutes.)
+Have each group present their built primitives. (5-15 minutes.)
+Discuss why each primitive looks the way it does, and what design choices led to the primitives that each group presented. (5-10 minutes.)
+Wrap up with a discussion about how building objects in real life is similar to modeling them 
+(i.e how construction/geometry is similar to the technology you used today,) you need to know how big/what shapes the components are, 
+and where those components go. (5-10 minutes.)
+
+Assessment:
+Students will be able to articulate why their design decisions had an impact on the design of the primitive. 
+
+Additional Resources:
+ITEEA’s Engineering Design Process for K-2 Students
+The Engineering Process, Crash Course Kids 12.2
+Link Engineering - Educator Exchange
