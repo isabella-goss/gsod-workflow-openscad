@@ -1,0 +1,65 @@
+
+Lesson Plan 2 (Lower Elementary Grades)
+Topic:STL 10A: Asking questions and making observations helps a person to figure out how things work.
+Grade: K-2
+Lesson Title: Asking Questions
+Duration: 50-70 minutes
+
+Overview (include background information):
+Students are tasked with creating an introduction to OpenSCAD for a new student in their class. 
+To gather the information, all they can do is use the program on their own/as a class and ask questions. 
+The class gets to ask as many questions as they can while filling out the fill-in-the-blank instructional outline.
+Lesson Objectives:
+Students will be able to understand the role that information-gathering plays in the engineering design process. 
+Students will be able to understand how to create useful questions for the “ask” and “learn more” sections of the engineering design process. 
+
+Summary of Tasks:
+Present to students about the engineering design process, focusing on the “ask” and “imagine” steps. 
+This can be done via a formal presentation, a skit, a video, or another presentation medium. 
+Talk about the design brief to students. 
+Either have students work individually/in groups to fill out the worksheet or work together as a class to fill out all blanks in the worksheet.
+Come back together as a class (if needed) and debrief on why asking questions in the context of this engineering design process was so important. 
+
+Consumables needed:
+One “written instructions” worksheet per student.
+
+Teacher Preparations:
+Create a presentation of some sort on the engineering design process to present at the beginning of the lesson.
+Print out the following worksheet used to describe OpenSCAD, one copy per student, for use in the demonstration. 
+
+Procedures:
+Present on the engineering design process’ “state the problem” and “look for ideas” steps (or your design processes’ equivalent.) 
+This is the model for engineering design that ITEEA uses for K-2 students, for more context. (15-20 minutes)
+Present the design brief. (2-5 minutes.)
+“Say we have a new student in our [class name] class. How will you teach them how to use a new computer program, like OpenSCAD?” 
+(pause for class suggestions.) “Some engineers teach people how to use their solutions using written instructions. 
+Let’s work together to create a set of written instructions so that our new classmate can learn how to use OpenSCAD.” 
+Have the students work through the worksheet, either as a class or in groups. Encourage students to ask questions and 
+try things within the program to get to the information needed to successfully complete the instructions sheet. (30-35 minutes.)
+Wrap up with a debrief discussion about how asking questions is a critical part of the engineering design process that engineers use. 
+Include examples from multiple different disciplines (ie requirements gathering in software engineering, etc.) if possible. (5-10 minutes.)
+
+Assessment:
+Students will be able to successfully complete the following worksheet detailing one way to create an OpenSCAD file.
+
+Additional Resources:
+ITEEA’s Engineering Design Process for K-2 Students
+The Engineering Design Process - My EdTech World
+Link Engineering - Educator Exchange
+
+
+Name: _______________________________  Class: _________________________
+
+Creating an OpenSCAD File
+
+Say we have a new student in our class. How will you teach them how to use a new computer program, like OpenSCAD? 
+Some engineers teach people how to use their solutions using written instructions. Let’s work together to create a set of written instructions 
+so that our new classmate can learn how to use OpenSCAD.
+
+How do I create a new file?
+To create a new OpenSCAD file, ___________ on the OpenSCAD icon either on your ____________ or by searching for OpenSCAD on your computer. 
+When the box pops up, click the ____________ button. 
+
+How do I save a file?   
+To save an OpenSCAD file, _______________ on the _______ option at the top of the screen. Scroll down to the ___________ button. 
+When the prompt pops up on your screen, give your file a _____ by typing it into the “______” box. Click the  _____ button to save your file!
