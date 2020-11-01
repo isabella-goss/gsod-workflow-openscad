@@ -1,0 +1,42 @@
+Lesson Plan 4 (Middle Grades)
+Topic: STL 10F: Troubleshooting is a problem-solving method used to identify the cause of a malfunction in a technological system.
+Grades: 6-8
+Lesson Title: Solving Bugs II
+Duration: 50-70 minutes
+
+Overview (include background information):
+Students will receive a short overview of what troubleshooting is and then will be given an OpenSCAD file with a bug in it. Students will have teacher or group support but will be tasked with using resources from the internet to help them troubleshoot their bugs when possible. At the end of class time, the class will discuss what troubleshooting is and what strategies they used to attempt to fix the bug.
+Lesson Objectives:
+Students will be able to explain what troubleshooting is and the basics of how it works.
+Students will be able to understand why troubleshooting is important in the context of the engineering design process, especially for software engineering.
+
+Summary of Tasks:
+Present to students on troubleshooting software files. 
+Present the project to students: fixing an OpenSCAD file with errors.  
+Have students work in pairs/groups to troubleshoot a file.
+Come back together as a class and debrief on why troubleshooting is important to all engineering disciplines, not just software engineers ,when creating and implementing an engineering solution. 
+
+Consumables needed: N/A
+
+Teacher Preparations:
+Create a presentation on troubleshooting to present at the beginning of the lesson.
+Download the sample troubleshooting file (or, create one of your own!)
+
+Procedures:
+Present to students on troubleshooting software files. Include information about what troubleshooting is, how people commonly troubleshoot, and best practices to use when troubleshooting. (15-20 minutes)
+Present the project. Introduce the file, the OpenSCAD documentation, and provide students with a set of general suggestions from the presentation on how to approach troubleshooting the problems with the fie. (5-10 minutes.)
+Have the students work through the file in pairs or groups. Encourage students to ask questions of their classmates, review the OpenSCAD documentation and error messages, and try things within the program to get to the information needed to successfully resolve all problems within the file. (30-35 minutes.)
+Wrap up with a debrief discussion about the role that troubleshooting plays in disciples like engineering, life sciences, construction, and other related fields. (5-10 minutes.)
+
+Assessment:
+Students will be able to explain how they apply/have applied troubleshooting concepts in their daily life as a part of the following worksheet. 
+Additional Resources:
+How to Debug - Code.org
+
+Name: _______________________________  Class: _________________________
+
+Talking about Troubleshooting
+
+To demonstrate your understanding of what troubleshooting is and how it works, please complete the following worksheet. 
+
+1. Have you ever troubleshot a program or solution in your daily life? Talk about the problem you had, how you solved it, and what you learned.  
