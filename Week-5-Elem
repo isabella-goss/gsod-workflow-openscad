@@ -1,0 +1,51 @@
+Lesson Plan 5 (Elementary Grades)
+Topic: STL 12D: Follow step-by-step directions to assemble a product.
+Grade: 3-5
+Lesson Title: Building the Future
+Duration: 50-65 minutes
+
+Overview (include background information):
+Students will collaboratively work through an OpenSCAD tutorial and then will have a class discussion about what worked and what did 
+not work for them when they used the tutorial.
+
+Lesson Objectives:
+Students will be able to understand the role that instructions play in the scientific method/manufacturing process.
+Students will be able to use strategies like trial and error and asking questions to find out how something works.
+
+Summary of Tasks:
+Present to students about replicability, and its importance in science (for verifying studies) and engineering (for manufacturing) fields.
+Split the class into groups, and have each group complete the tutorial and model their brick.
+Have a class discussion on why instructions are important in the engineering/scientific processes.
+
+Consumables needed:
+N/A
+
+Teacher Preparations:
+Create a presentation on the scientific process/engineering design process.
+
+Procedures:
+Present to students about replicability/creating instructions, and their importance in science (for verifying studies) and 
+engineering (for manufacturing) fields. If you want, you could touch on the role that advances in Computer-Aided Manufacturing (CAM) play in 
+manufacturing, touching on topics like G-code (15-20 minutes.)
+Split the class into small groups and ask them to follow this OpenSCAD modeling tutorial. (30-35 minutes.)
+Wrap up with a debrief discussion about how following instructions has applications beyond class assignments. (5-10 minutes.)
+
+Assessment:
+Students will be able to successfully write a set of instructions for one of the scenarios on the following worksheet.
+
+Additional Resources:
+OpenSCAD Tutorial For Beginners - Model a Toy Brick (mathcodeprint)
+Is there a reproducibility crisis in science? - TED-Ed
+TeachersPayTeachers - “Replicating Science Experiments”
+
+
+Name: _______________________________  Class: _________________________
+
+Creating Your Own Instructions
+
+Today in class, we followed a set of step-by-step instructions to model a toy brick. Now, write your own set of instructions below for one of the following scenarios:
+
+Write instructions for how to make your favorite sandwich. Your first step should start with getting the ingredients out of the cabinet/fridge. 
+Write a set of instructions for how to feed your pet. Your instructions should include information about what pet you have, how often to 
+feed your pet, how much food you feed them, and what you feed them. 
+Write instructions for how to get ready for school in the morning. Remember, you need to get out of bed before you can get dressed or brush your teeth!
