@@ -1,0 +1,65 @@
+
+Lesson Plan 1 (Lower Elementary Grades)
+Topic: STL 2E: People plan in order to get things done.
+Grade: K-2
+Lesson Title: Creating a Table
+Duration: 40-65 minutes
+
+Overview (include background information):
+This lesson is designed to teach lower grades students about one of the fundamental concepts of engineering design: the planning phase. 
+As a class, students will take a design from an individual drawing to a class-wide solid model using OpenSCAD.
+
+Lesson Objectives:
+Students will be able to explain the role that designing and prototyping play in the engineering design process.
+Students will be able to discuss why 3D modeling is a useful part of the design process.
+
+Summary of Tasks:
+Present on the engineering design process. 
+Allow students time to design a table that they like, either individually or as a group.
+Discuss as a class: what does their individual table look like? Is it round? Rectangular? How many legs does it have?
+Model the most popular elements of the class’ table in OpenSCAD on a projector. If a majority of the class has a table with four legs, model the table with four legs, etc.
+Talk about why the class made the decisions that they did when designing their tables.
+
+Consumables needed:
+Pieces of graph/printer paper for students to draw their tables on, one (or ½) per student or group of students.
+Homework worksheet (provided,) one per student.
+
+Teacher Preparations:
+Create/find a presentation on the engineering design process (this is the model for engineering design that ITEEA uses for K-2 students, for more context.)
+Get familiar with OpenSCAD in preparation for the live modeling exercise
+Gather the graph/printer paper necessary for students to draw their tables
+Print enough worksheets so that each student can have one to complete for homework.
+
+Procedures:
+Present on the engineering design process. Discuss in detail what steps are involved, what information you need to finish each step, and some 
+tools that engineers use for each step in the design process. (20-25 minutes.)
+
+Have students draw what they think of when you say “table” on a piece of paper, either individually or in pairs/small groups. (5-10 minutes.) 
+
+Start a class discussion about the similarities between tables. How many legs did most people say a table had? What shape is the top of the table? 
+What color is the table? (5-10 minutes.)
+
+Model the most common features of the table in OpenSCAD. (5-10 min)
+
+Have a debrief discussion. What features did the class’ table have? What would you need besides this design to build a table? 
+Would you be able to build a table without having a design? (5-10min)
+
+
+Assessment:
+Students will complete the attached worksheet and explain what they would change about either a chair, a mailbox, or a pencil, and will draw their new design, 
+demonstrating the changes they planned to make.
+
+Additional Resources:
+ITEEA’s Engineering Design Process for K-2 Students
+The Engineering Process, Crash Course Kids 12.2
+Link Engineering - Educator Exchange
+
+
+Name: _______________________________  Class: _________________________
+
+Engineering Design Process Reflection Assignment
+
+In the space below, plan what you would change about one of these items to make it better, and draw your new design:
+A chair
+A mailbox
+A pencil
