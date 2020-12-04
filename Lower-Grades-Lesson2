@@ -1,0 +1,92 @@
+
+Lesson Plan 2 (Lower Elementary Grades)
+Topic: STL 3A: The study of technology uses many of the same ideas and skills as other subjects.
+Grade: K-2
+Lesson Title: Geometric Building Blocks
+Duration: 50-85 minutes
+
+Overview (include background information):
+Students compare building blocks and pre-drawn OpenSCAD models and are asked to identify similarities/differences. 
+This helps students understand both the relationship between geometry, CAD technology, and construction.  
+
+Lesson Objectives:
+Students will be able to explain the relationship between technology and basic geometry concepts. 
+Students will learn how to describe basic geometric shapes.
+
+Summary of Tasks:
+Present on 2D and 3D geometric shapes/terminology that you use to describe them (edges, corners, faces, etc.) 
+Give each student or group of students a building block, at random, and have them present their shape to the class. 
+Split the class into groups and provide them with the OpenSCAD file. Ask them to identify what shapes they have and explain how their 
+shapes are different (different colors, different measurements, etc., based on grade level/ability.) Then, have the students work together 
+as a team to build something with the building blocks that they have.
+Have each group present their newly built item. Have the class “vote” on which one they like best/model the most popular built item in 
+OpenSCAD on a projector.
+Talk about the relationship between the built item and the shapes involved. Wrap up with a discussion about how building objects in real life 
+is similar to modeling them (i.e how construction is similar to the technology you used:) you need to know how big/what shapes the components are, 
+and where those components go.
+
+Consumables needed:
+One OpenSCAD file (provided) for each student or group of students.
+Homework worksheet (provided,) one per student.
+Tape measure or measuring tape, one per group of students. (Optional)
+
+Teacher Preparations:
+Prepare for the live modeling demonstration.
+Create/find a presentation on basic 2D and 3D geometric shapes.
+Download the accompanying OpenSCAD file for student use.
+Purchase/find building blocks in each (or some) of the following 3D shapes: cube, cylinder, hemisphere/semisphere (i.e. half or part of a cube,) rectangular prism
+Print the provided worksheets: one for each student for homework.   
+
+Procedures:
+Present on 2D and 3D geometric shapes, and terminology that you use to describe them (edges, corners, faces, etc.) (15-20 minutes)
+Give each student or group of students a building block, at random, and have them present their shape to the class. (What is it called? 
+How many edges/faces/corners does it have? etc.) (5-10 minutes.)
+Split the class into groups and provide them with the OpenSCAD file. Ask them to identify what shapes they have and explain how their 
+shapes are different (different colors, different measurements, etc., based on grade level/ability.) Then, have the students work together as a team to 
+build something with the building blocks that they have. (15-20 minutes.)
+Have each group present their newly built item. Have the class “vote” on which one they like best. (5-15 minutes.)
+Model the most popular built item in OpenSCAD on a projector. (5-10 minutes)
+Talk about the relationship between the built item and the shapes involved. Wrap up with a discussion about how building objects in real life is similar 
+to modeling them (i.e how construction/geometry is similar to the technology you used today,) you need to know how big/what shapes the components are, 
+and where those components go. (5-10 minutes.)
+
+Assessment:
+Students will be able to correctly identify the names, as well as the number of faces, edges, and corners of three out of the four shapes on the attached 
+homework worksheet.
+
+Additional Resources:
+ITEEA’s Engineering Design Process for K-2 Students
+ClickView - How to Describe 3D Shapes
+Link Engineering - Educator Exchange
+
+
+Name: _______________________________  Class: _________________________
+
+Engineering Geometry Assignment
+
+For each of the objects below, write the object’s name, how many faces it has, how many edges it has, and how many corners are on the object. 
+
+Name: __________________________________
+
+How many faces does this have? _________  How many edges?_______
+
+How many corners are there? __________________________________
+
+Name: __________________________________
+
+How many faces does this have? _________  How many edges?_______
+
+How many corners are there? __________________________________
+
+Name: __________________________________
+
+How many faces does this have? _________  How many edges?_______
+
+How many corners are there? ___________________________________
+
+
+Name: __________________________________
+
+How many faces does this have? _______ How many edges?_______
+
+How many corners are there? _________________________________
