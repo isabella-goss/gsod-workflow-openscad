@@ -1,0 +1,81 @@
+
+Lesson Plan 1 (Elementary Grades)
+Topic: STL 3C: Various relationships exist between technology and other fields of study.
+Grades: 3-5
+Lesson Title: Creating Coordinates
+Duration: 52- 75 minutes
+
+Overview (include background information):
+Students receive a presentation on the history of geometry and then are asked to solve a set of geometric history-related riddles, inputting 
+the answers into OpenSCAD to build a specific figure (A word, “Hi!”.) This leads to a discussion about how while geometry was not initially 
+created specifically with the intention of being able to construct objects in a 3D modeling software, you can use the things you learned 
+related to geometry to build figures.
+
+Lesson Objectives:
+Students will be able to identify the impacts that geometry has on the construction of objects.
+Students will be able to understand the history of geometry as a discipline. 
+
+Summary of Tasks:
+Present on the history of geometry as a field, with an emphasis on geometry’s initial use in surveying, taxing, and other fields, 
+as well as current developments in geometry.
+Hand out the worksheets to each student or group of students. 
+Have the students complete the worksheet.
+Have the students model their answers in OpenSCAD. 
+Lead a class discussion on what each student learned in the process of creating their OpenSCAD drawings. 
+
+Consumables needed:
+A worksheet (attached at the end of this document) for each student or group of students to complete for this assignment.
+
+Teacher Preparations:
+Create/find a presentation on the history of geometry (one is linked in the “Additional Resources” section.)
+Print a worksheet (attached at the end of this document) for each of the students or groups of students to complete.
+
+Procedures:
+Present on the history of geometry. Why was the field of geometry created? What impact does geometry have on different fields? (20-25 minutes.)
+Introduce and hand out the worksheet. (2-5 minutes.)
+Let the students or groups of students complete the worksheet. (15-20 minutes.) 
+Students/groups of students will model their answers in OpenSCAD. (10-15 min)
+Discuss: What did you learn about geometry in this worksheet and when creating this figure? What was new information to you? Where do you think 
+geometry is now most frequently used in the “real world?” Is that different than where it was used most frequently when it was created? (5-10 minutes.)
+
+Assessment:
+Students will correctly complete the worksheet/model the figure and will be an active participant in the post-activity discussion.
+Additional Resources:
+Encyclopedia Britannica - Geometry
+Professor Dave Explains - Introduction to Geometry
+Teachers Pay Teachers - FREE History of Geometry Presentation
+
+
+
+Name: _______________________________  Class: _________________________
+
+History of Geometry Puzzle Game
+
+Let’s build a secret message! Answer the following questions and input the information in parentheses into a new OpenSCAD file to read the hidden message. 
+(Correct answers are italicized on the teacher version.)
+
+What was geometry originally created to do?
+Explain the movement of the celestial bodies (color("Red") translate([0,0,20]) {sphere(10);})
+Give math students something to learn (color("Blue") cylinder(h=100, r1=2, r2=25, center = false);)
+*Survey land and construct pyramids* (color("MidnightBlue")translate([0,0,0]) scale([0.5,0.5,2]) cube(10);)
+
+Who first discovered that the circumference of a circle (the distance around the outside of a circle) was 
+about 3 times the diameter (the measurement of how wide a circle is)?
+Greeks (color("SlateBlue") cylinder(h=8, r1=0.5, r2=22, center = true);)
+*Babylonians* (color("MidnightBlue") translate([0,5,7]) scale([0.5,1,0.5]) cube(10);)
+Egyptians (color("SpringGreen") rotate_extrude(convexity = 18) translate([12, 0, 2]) circle(r = 4);)
+
+What does the term “geometry” mean?
+*Measurement of earth* (color("MidnightBlue") translate([0,15,0]) scale([0.5,0.5,2]) cube(10);)
+Numbers philosophy (color ("HotPink") translate([3,20,0]) scale (0.05) sphere(100);)
+Learning about the earth (color("Lime") translate ([0,0,0]) scale ([0.1,0.6,0.40]) cube (50);)
+
+What was Euclid’s book called?
+Geometry (color("LightBlue") sphere(10);)
+The Numbers (color("Chocolate") cylinder (h=10, r1=15, r2=10, center=false);)
+*The Elements* (color("DarkRed") translate([0,25,0]) scale([0.5,0.5,1]) cube(10);)
+
+Which culture is famous for its geometric artwork?
+*Islamic* (color("DarkRed") translate([0,25,15]) scale([0.5,0.5,0.5]) cube(10);)
+Roman (color("MidnightBlue") translate([0,5,7]) scale([0.5,1,0.5]) cube(10);)
+Grecian (color("Aquamarine") translate([10,10,10]) scale([0.25,0.25,1]) cube(5);
