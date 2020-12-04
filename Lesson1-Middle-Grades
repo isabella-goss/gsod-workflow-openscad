@@ -1,0 +1,77 @@
+
+Lesson Plan 1 (Middle Grades)
+Topic: STL 2S: Trade-off is a decision process recognizing the need for careful compromises among competing factors.
+Grades: 6-8
+Lesson Title: Building Tables
+Duration: 45-70 minutes
+
+
+Overview (include background information):
+This lesson is designed to teach middle-grade students about the importance of trade-offs present in the engineering design process. 
+After being given a problem statement to design around (design a table in a specific context,) students will design a table in groups: 
+first by drawing it on a piece of paper, and then by modeling it using OpenSCAD.
+
+Lesson Objectives:
+Students will be able to identify what tradeoffs in the context of engineering design are, why they are important, 
+and the impacts they have on the engineering design process. 
+
+Summary of Tasks:
+Present on the engineering design process, specifically on the importance of tradeoffs.
+Split the class into four groups, and assign each group a scenario that they would need to design a table for. 
+(Dining table in a small dining room, table for a restaurant, teacher’s desk, table in a kindergarten environment.)
+Have the students, as a group, draw a table on paper that corresponds to the scenario you outlined in the step above. 
+Have the students model their tables in OpenSCAD.
+Present the files that each of the groups created, and discuss their designs: why did they make the choices that they did?
+
+Consumables needed:
+Four pieces of paper, one for each of the groups. 
+A worksheet (attached at the end of this document) for each student to complete for homework.
+
+Teacher Preparations:
+Create/find a presentation on the use of tradeoffs in the engineering design process.
+Create a quick start guide for students to use in preparation for their modeling exercise in OpenSCAD.
+Gather the four pieces of graph/printer paper necessary for the groups to draw their tables.
+Print a worksheet (attached at the end of this document) for each of the students. 
+
+Procedures:
+Present on trade-offs. Why do engineers have to make trade-offs? 
+What impact do different trade-offs have on solving problems? (20-25 minutes.)
+
+Split the class into four groups, and introduce the design projects. 
+The design project briefs are as follows: (5-10 minutes.)
+    You are a family with five members that has a 10ft by 10ft (3m x 3m) dining room. 
+      Design a dining table that will comfortably seat six people, and will fit in the dining room.
+    You own a fast-food restaurant that primarily caters to families. You are looking for a table that will accommodate up to four people. 
+      Young children (ages 5-12) must be able to comfortably sit at the table. 
+    You will redesign a teacher’s desk. The desk must have plenty of storage space, be able to be used by two people (a student on one side and the teacher on the other,) 
+      and must be smaller than 3ft by 3ft. (0.9m x 0.9m.)
+    You are a kindergarten teacher looking for a new desk that will be at a good height for your students, 
+      will be sturdy enough to stand up to years of wear, and will not be likely to cause injuries to students (i.e., rounded corners on the tabletops.)
+
+Have the groups draw a table that corresponds to these criteria and constraints on a piece of paper. (5-10 minutes.) 
+
+The groups will model their table design in OpenSCAD. (10-15 min)
+
+Present the OpenSCAD files and start a class discussion about each of the tables. What do these tables look like? What decisions did each group have to make, 
+and why did they make these decisions? Are the tables “successful?” (ie, do they meet all of the criteria in the design briefs, if applicable?) (5-10 minutes.)
+
+Assessment:
+Students will successfully complete the attached worksheet for homework.
+
+Additional Resources:
+Design Trade-offs for Product Development
+Dealing With Trade-offs - IEEE
+Link Engineering - Educator Exchange
+
+
+
+Name: _______________________________  Class: _________________________
+
+Engineering Trade-Offs Assignment
+
+Your local park has asked you to create a new picnic bench design. Here are the criteria and constraints:
+It must be made out of wood.
+It must be wheelchair accessible.
+It cannot be likely to cause injuries.
+
+Draw your design in the space provided. For each of the decisions you made (material, shape of the tabletop, etc.) explain why you chose to design it that way. 
